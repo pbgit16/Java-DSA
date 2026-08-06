@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pbgit16/Java-DSA/tree/master/0041-first-missing-positive) |
+| [0209-minimum-size-subarray-sum](https://github.com/pbgit16/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pbgit16/Java-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pbgit16/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/pbgit16/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pbgit16/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/pbgit16/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbgit16/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pbgit16/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/pbgit16/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbgit16/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
