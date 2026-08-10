@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/pbgit16/Java-DSA/tree/master/0344-reverse-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/pbgit16/Java-DSA/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pbgit16/Java-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
