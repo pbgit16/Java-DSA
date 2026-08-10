@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/pbgit16/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/pbgit16/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pbgit16/Java-DSA/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/pbgit16/Java-DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/pbgit16/Java-DSA/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pbgit16/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pbgit16/Java-DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pbgit16/Java-DSA/tree/master/0680-valid-palindrome-ii) |
+| [1528-shuffle-string](https://github.com/pbgit16/Java-DSA/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
