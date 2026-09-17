@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pbgit16/Java-DSA/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/pbgit16/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pbgit16/Java-DSA/tree/master/0657-robot-return-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
