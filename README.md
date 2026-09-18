@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/pbgit16/Java-DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/pbgit16/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/pbgit16/Java-DSA/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/pbgit16/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pbgit16/Java-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -136,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pbgit16/Java-DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/pbgit16/Java-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pbgit16/Java-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
