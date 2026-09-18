@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pbgit16/Java-DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/pbgit16/Java-DSA/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pbgit16/Java-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
