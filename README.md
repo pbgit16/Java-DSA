@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/pbgit16/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/pbgit16/Java-DSA/tree/master/0645-set-mismatch) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/pbgit16/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
