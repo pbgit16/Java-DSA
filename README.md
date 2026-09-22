@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/pbgit16/Java-DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/pbgit16/Java-DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/pbgit16/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pbgit16/Java-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pbgit16/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pbgit16/Java-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
