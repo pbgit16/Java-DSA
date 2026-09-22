@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/pbgit16/Java-DSA/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/pbgit16/Java-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pbgit16/Java-DSA/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbgit16/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/pbgit16/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pbgit16/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/pbgit16/Java-DSA/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pbgit16/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pbgit16/Java-DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pbgit16/Java-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/pbgit16/Java-DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pbgit16/Java-DSA/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
