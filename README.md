@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pbgit16/Java-DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbgit16/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1389-create-target-array-in-the-given-order](https://github.com/pbgit16/Java-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/pbgit16/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pbgit16/Java-DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/pbgit16/Java-DSA/tree/master/1528-shuffle-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pbgit16/Java-DSA/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/pbgit16/Java-DSA/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/pbgit16/Java-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 ## Divide and Conquer
 |  |
 | ------- |
